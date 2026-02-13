@@ -1,6 +1,6 @@
 ---
 title: "My Journey Into Security Operations"
-date: 2026-02-13 10:00:00 +0000
+date: 2026-02-13 10:00:00 +3000
 categories: [Cybersecurity, SOC]
 tags: [SOC, Learning, Cisco]
 ---
