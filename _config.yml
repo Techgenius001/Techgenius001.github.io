@@ -19,9 +19,9 @@ title: Samuel Njihia # the main title
 tagline: Aspiring Ethical Hacker | Cybersecurity Enthusiast # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Currently enrolled in the **Ethical Hacker 2026** course on Cisco Networking Academy.  
-  Passionate about learning and applying cybersecurity principles, penetration testing, 
-  and ethical hacking techniques to protect networks and systems.  
+  Currently enrolled in the Ethical Hacker 2026 course on Cisco Networking Academy.
+  Passionate about learning and applying cybersecurity principles, penetration testing,
+  and ethical hacking techniques to protect networks and systems. 
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -44,7 +44,7 @@ social:
     - https://github.com/Techgenius001 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-     - www.linkedin.com/in/samuel-njihia-75609633b
+    - www.linkedin.com/in/samuel-njihia-75609633b
 
 # Site Verification Settings
 webmaster_verifications:
